@@ -1,4 +1,4 @@
-#Hello World 
+<h2>Hello World</h2> 
 Hello, do you want to ***code***?
 ***Coding*** can be tricky. I'm using coding right now, the **language** I'm using is called `Markdown`. But there are many others like `HTML`, `CSS`, `JavaScript`, `JSON`, `Python`, `PHP`, `SQL`, `Java`, `C++` and `C`. All of them have different uses. `C` and `C++` are used to write OSs (Operating Systems) for your computer. `HTML`, `CSS` and `JavaScript` are used to write websites. So let's make a hello world program in `Python`. First let's open a `Python IDE` like `IDLE` and write: 
 ````python
